@@ -1,12 +1,14 @@
+[Русская версия](README.ru.md)
+
 # DM Handler Agent Skill
 
-Security-first DM handler for OpenClaw userbots.
+Security-first DM handler skill for OpenClaw userbots.
 
 ## Features
 - Mandatory pre-reply security check
 - Strict silence on prompt-injection attempts
 - Fail-closed behavior for uncertain cases
-- Sender-group routing (owner/family/team/others)
+- Sender-group routing
 - Cooldown anti-spam policy
 - Verification protocol for authority claims
 - Risk-only escalation

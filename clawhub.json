@@ -1,0 +1,6 @@
+{
+  "name": "dm-handler-agent-skill",
+  "version": "0.1.1",
+  "description": "Security-first DM handler for OpenClaw userbots with pre-check, silence-on-injection, fail-closed routing, cooldown, verification, and risk-only escalation.",
+  "license": "MIT"
+}
